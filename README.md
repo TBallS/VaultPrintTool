@@ -2,6 +2,9 @@
 
 A Windows desktop utility designed to streamline the extraction, printing, and exporting of engineering drawing packages and parts lists directly from **Autodesk Vault Professional**.
 
+> [!NOTE]
+> This project was 100% vibe-coded using **Gemini** and **Antigravity** — I am not a programmer!
+
 ---
 
 ## Vault Workspace Prerequisites & Workflow Requirements
