@@ -1,0 +1,20 @@
+# Compiled executables and installers
+*.exe
+
+# Release archives and output folders
+*.zip
+Release/
+packages/
+
+# Scratch and test scripts
+test*.vb
+vault_test*.vb
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+_V/
+
+# Note: Build dependency DLLs (itextsharp.dll, BouncyCastle.Crypto.dll, PdfiumViewer.dll, pdfium.dll)
+# are intentionally tracked so build.bat / build_v3.bat work out of the box.
