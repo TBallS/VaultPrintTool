@@ -108,3 +108,10 @@ Compiles `VaultPrintTool.vb` into `VaultPrintTool.exe`.
 build_installer.bat
 ```
 Compiles `installer\Setup.cs` into `VaultPrintTool_Setup_v3.0.exe` (requires `VaultPrintTool_Release_v3.0.zip` in the project root).
+
+---
+
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** — see the [LICENSE](LICENSE) file for details. This license ensures compatibility with bundled third-party dependencies (including `itextsharp.dll`, `PdfiumViewer.dll`, `pdfium.dll`, and `BouncyCastle.Crypto.dll`).
+
